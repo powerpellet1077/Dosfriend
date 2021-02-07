@@ -1,0 +1,1 @@
+Plz drag and drop in your C: drive,other wise this wont work (Im not very good with vareables yet)
