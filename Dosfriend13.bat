@@ -46,7 +46,7 @@ set game3= %qu6%
 echo Your game will be saved as %game3%
 pause
 cls
-color ef
+color 12
 echo That's it for now
 echo close = stop
 echo press a key = go to my github page
