@@ -48,9 +48,15 @@ pause
 cls
 color 12
 echo That's it for now
-echo close = stop
-echo press a key = go to my github page
+echo c = stop
+echo g = go to my github page
+set /p exitpro= Should I go home[Y/N]?
+if %exitpro% == c goto end
+if %exitpro% == g goto con2
 pause
+:con2
 start https://github.com/powerpellet1077
+:end
+exit
 
 
