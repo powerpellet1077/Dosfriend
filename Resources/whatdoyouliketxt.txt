@@ -1,2 +1,0 @@
-What do you like?
-(Anwser in console)

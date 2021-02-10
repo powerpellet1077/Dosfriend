@@ -1,1 +1,0 @@
-echo %Username% > USERNAME.txt
