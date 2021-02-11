@@ -50,7 +50,7 @@ color 12
 echo That's it for now
 echo c = stop
 echo g = go to my github page
-set /p exitpro= Should I go home[Y/N]?
+set /p exitpro= Should I open my open my Github page[Y/N]?
 if %exitpro% == c goto end
 if %exitpro% == g goto con2
 pause
